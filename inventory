@@ -1,3 +1,9 @@
+[web_servers]
 srvr1
 srvr2
+
+[db_servers]
 srvr3
+
+[file_servers]
+centos01
